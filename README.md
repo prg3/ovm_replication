@@ -1,7 +1,7 @@
 # ovm_replication
 Oracle VM Replication Scripts
 
-Simple python script that uses filesystem snapshots and scp to replicate OVM guests between OVM installations.
+Simple python script that uses filesystem snapshots and scp to replicate OVM guests between OVM installations. This is a completly backend storage agnostic replciation solution, that does not require matching UUIDs of the Managers.
 
 Installation
 ____________
