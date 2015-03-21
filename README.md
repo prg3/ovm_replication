@@ -35,5 +35,9 @@ Specifically, running from the host:
 * ssh -p 10000 admin@sourceIp
 * ssh -p 10000 admin@destinationIp
 
+Tested on OVM 3.2.8
+
+arcfour encryption was used for performance.
+
 Note that above the job runs at 5am at system local time.
 
