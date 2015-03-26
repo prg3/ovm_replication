@@ -9,6 +9,7 @@ ____________
 * Copy the public ssh key into each of the ovm hosts ~root/.ssh/authorized_keys
 * Copy repl_runner.sh and replication.py to /usr/bin on the source manager
 * Modify repl_runner.sh to adjust FROM and TO fields
+* Setup exact copies of the VM to be replicated on the destination side.
 * Setup Tags in your OVM Manager
 * Assign Tags to gusts
 
